@@ -4,10 +4,10 @@ Author : ChungYi Fu (Kaohsiung, Taiwan)  2021-6-29 21:30
 https://www.facebook.com/francefu
 */
 
-const char* ssid     = "mobile";   //your network SSID
-const char* password = "C0mun1c4t10n.mf";   //your network password
+const char* ssid     = "wifi";   //your network SSID
+const char* password = "password";   //your network password
 
-String myToken = "1893716480:AAF0M4YnB9Qziizc9JJ26ui2a_C0NuswN1A";   // Create your bot and get the token -> https://telegram.me/fatherbot
+String myToken = "xxxx:xxxxxxxx";   // Create your bot and get the token -> https://telegram.me/fatherbot
 String myChatId = "649792299";        // Get chat_id -> https://telegram.me/userinfobot
 boolean sendHelp = false;
 
