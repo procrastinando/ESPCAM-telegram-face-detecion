@@ -8,7 +8,7 @@ const char* ssid     = "wifi";   //your network SSID
 const char* password = "password";   //your network password
 
 String myToken = "xxxx:xxxxxxxx";   // Create your bot and get the token -> https://telegram.me/fatherbot
-String myChatId = "649792299";        // Get chat_id -> https://telegram.me/userinfobot
+String myChatId = "xxxxxxxxx";        // Get chat_id -> https://telegram.me/userinfobot
 boolean sendHelp = false;
 
 #include <WiFi.h>
